@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapUpDemoApp", "WrapUpDemoApp\WrapUpDemoApp.csproj", "{1D84B9FA-7F0D-4127-923E-6B52D634CDB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapUpDemo", "WrapUpDemo\WrapUpDemo.csproj", "{1D84B9FA-7F0D-4127-923E-6B52D634CDB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
